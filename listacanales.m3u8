@@ -252,6 +252,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONALES",NTN24
 http://181.224.200.5:2277/play/a026/index.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", UNIVISION 24/7
+https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", CNN EN ESPAÑOL
 http://181.78.79.131:8000/play/a0p3
 
