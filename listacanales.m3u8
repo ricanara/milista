@@ -183,44 +183,80 @@ http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?devi
 #EXTINF:-1 group-title="INFANTIL", ADULT SWIM HD
 http://24.152.42.29:8000/play/a07j/index.m3u8?hls
 
-#EXTINF:-1 group-title="NOTICIAS",NTN24
-http://181.224.200.5:2277/play/a026/index.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", CNN EN ESPAÑOL
-http://181.78.79.131:8000/play/a0p3
-
-#EXTINF:-1 group-title="NOTICIAS", RT NOTICIAS
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", DW NOTICIAS
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", CABLE NOTICIAS
+#EXTINF:-1 group-title="NACIONALES", CABLE NOTICIAS
 http://181.78.8.199:8000/play/a0e8/index.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",90 MINUTOS
+#EXTINF:-1 group-title="NACIONALES",90 MINUTOS
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", BLU RADIO
+#EXTINF:-1 group-title="NACIONALES", BLU RADIO
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", ESTRELLA NEWS
+#EXTINF:-1 group-title="NACIONALES",RCN HD2
+http://181.78.14.26:4000/play/a07m/index.m3u8
+
+#EXTINF:-1 group-title="NACIONALES",RCN NOVELAS
+http://181.78.8.199:8000/play/a0a7/index.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", CANAL 1 HD
+http://181.78.79.131:8000/play/a0s2
+
+#EXTINF:-1 group-title="NACIONALES", CANAL CONGRESO
+http://181.78.8.199:8000/play/a0di/index.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", CARACOL HD 
+http://181.78.79.131:8000/play/a0l0
+
+#EXTINF:-1 group-title="NACIONALES", CARACOL HD OP 2
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", RCN HD
+http://181.78.79.131:8000/play/a0l4
+
+#EXTINF:-1 group-title="NACIONALES", CITY TV
+http://181.78.79.131:8000/play/a0si
+
+#EXTINF:-1 group-title="NACIONALES", RED+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_COLOMBIA_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", SEÑAL COLOMBIA OP 2
+http://181.78.79.131:8000/play/a0l7
+
+#EXTINF:-1 group-title="NACIONALES", CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", CANAL INSTITUCIONAL OP 2
+http://181.78.79.131:8000/play/a0l8
+
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONALES",NTN24
+http://181.224.200.5:2277/play/a026/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", CNN EN ESPAÑOL
+http://181.78.79.131:8000/play/a0p3
+
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", RT NOTICIAS
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", DW NOTICIAS
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", ESTRELLA NEWS
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991776
 
-#EXTINF:-1 group-title="NOVELAS",TLNOVELAS
+#EXTINF:-1 group-title="NOVELAS", TLNOVELAS
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="NOVELAS",TODO NOVELAS
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 
-#EXTINF:-1 group-title="NOVELAS",RCN HD2
-http://181.78.14.26:4000/play/a07m/index.m3u8
-
-#EXTINF:-1 group-title="NOVELAS",RCN NOVELAS
-http://181.78.8.199:8000/play/a0a7/index.m3u8
-
 #EXTINF:-1 group-title="NOVELAS", NOVELAS MEXICANAS
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+
+#EXTINF:-1 group-title="NOVELAS", PLUTO NOVELAS
+https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
 
 #EXTINF:-1 group-title="MUSICA", LA KALLE
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
@@ -282,41 +318,8 @@ http://181.78.79.131:8000/play/a0mt
 #EXTINF:-1 group-title="TV", UNIVISION HD
 http://24.152.42.29:8000/play/a0ba/index.m3u8?hls
 
-#EXTINF:-1 group-title="TV", CANAL 1 HD
-http://181.78.79.131:8000/play/a0s2
-
-#EXTINF:-1 group-title="TV", CANAL CONGRESO
-http://181.78.8.199:8000/play/a0di/index.m3u8
-
-#EXTINF:-1 group-title="TV", CARACOL HD 
-http://181.78.79.131:8000/play/a0l0
-
-#EXTINF:-1 group-title="TV", CARACOL HD OP 2
-http://181.78.8.199:8000/play/a0b0/index.m3u8
-
-#EXTINF:-1 group-title="TV", RCN HD
-http://181.78.79.131:8000/play/a0l4
-
-#EXTINF:-1 group-title="TV", CITY TV
-http://181.78.79.131:8000/play/a0si
-
 #EXTINF:-1 group-title="TV", VISION TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-
-#EXTINF:-1 group-title="TV", RED+
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-
-#EXTINF:-1 group-title="TV", SEÑAL COLOMBIA
-https://streaming.rtvc.gov.co/TV_Senal_COLOMBIA_live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV", SEÑAL COLOMBIA OP 2
-http://181.78.79.131:8000/play/a0l7
-
-#EXTINF:-1 group-title="TV", CANAL INSTITUCIONAL
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV", CANAL INSTITUCIONAL OP 2
-http://181.78.79.131:8000/play/a0l8
 
 #EXTINF:-1 group-title="TV", SURAM TV
 https://us.streaminghd.cl/suramtv/index.m3u8
