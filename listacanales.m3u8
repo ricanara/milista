@@ -228,10 +228,6 @@ http://181.78.79.131:8000/play/a0si
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/https://cdnmedia.tv
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", TELEANTIOQUIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
-https://liveingesta118.cdnmedia.tv/teleantioquialive/live-1500/chunklist.m3u8
-
 #EXTINF:-1 group-title="NACIONALES", RED+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
