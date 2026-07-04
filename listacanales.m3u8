@@ -1,16 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CRISTIANA", CINE PREMIUM
-http://181.78.12.119:16123/play/ch49/index.m3u8
+#EXTINF:-1 group-title="CINE", XTREMA TV
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 group-title="CRISTIANA", AMIGOS TV
-https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+#EXTINF:-1 group-title="CINE", MEGA CINE
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8 
+
+#EXTINF:-1 group-title="CINE", RETRO X
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8 
+
+#EXTINF:-1 group-title="CINE", RETRO X PLUS
+https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8
 
 #EXTINF:-1 group-title="CINE", CINE PREMIUM
 http://181.78.12.119:16123/play/ch49/index.m3u8
 
 #EXTINF:-1 group-title="CINE", CINE FAMILIAR 
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE", SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8  
 
 #EXTINF:-1 group-title="CINE", HBO
 http://181.79.87.130:8000/play/a0ei/index.m3u8
@@ -27,6 +36,12 @@ http://190.61.101.11:7050/play/a050/index.m3u8?hls
 #EXTINF:-1 group-title="CINE", HBO XTREME HD
 http://181.78.79.131:8000/play/a0qy
 
+#EXTINF:-1 group-title="CINE", TNT HD
+http://24.152.42.29:8000/play/a07h/index.m3u8?hls
+
+#EXTINF:-1 group-title="CINE", TNT SERIES HD
+http://24.152.42.29:8000/play/a07o/index.m3u8?hls
+
 #EXTINF:-1 group-title="CINE", SPACE HD
 http://181.78.79.131:8000/play/a0q2
 
@@ -42,71 +57,35 @@ http://181.78.79.131:8000/play/a0mw
 #EXTINF:-1 group-title="CINE", UNIVERSAL PREMIERE
 http://209.87.175.160:5001/play/a0mo/index.m3u8?hls
 
+#EXTINF:-1 group-title="CINE", BEST CLASICOS
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+
 #EXTINF:-1 group-title="CINE", UNIVERSAL CINEMA
 http://209.87.175.160:5001/play/a0m1/index.m3u8?hls
 
 #EXTINF:-1 group-title="CINE", UNIVERSAL COMEDY
 http://209.87.175.160:5001/play/a0mh/index.m3u8?hls
 
-#EXTINF:-1 group-title="INFANTIL", DISNEY JR.
-http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 group-title="INFANTIL", ADULT SWIM HD
-http://24.152.42.29:8000/play/a07j/index.m3u8?hls
-
-#EXTINF:-1 group-title="TV", ENT FAMILY
-https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8  
-
-#EXTINF:-1 group-title="TV", ENT CHANNEL
-https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="TV", AXN
-http://181.78.79.131:8000/play/a0q0
-
-#EXTINF:-1 group-title="TV", AMC
-http://181.78.79.131:8000/play/a0n2
-
-#EXTINF:-1 group-title="TV", AMC SERIES HD
-http://24.152.42.29:8000/play/a06r/index.m3u8?hls
-
-#EXTINF:-1 group-title="CINE", TNT HD
-http://24.152.42.29:8000/play/a07h/index.m3u8?hls
-
-#EXTINF:-1 group-title="CINE", TNT SERIES HD
-http://24.152.42.29:8000/play/a07o/index.m3u8?hls
-
-#EXTINF:-1 group-title="TV", CINECANAL
+#EXTINF:-1 group-title="CINE", CINECANAL
 http://181.78.79.131:8000/play/a0pp
 
-#EXTINF:-1 group-title="TV", SONY HD
-http://24.152.42.29:8000/play/a06y/index.m3u8?hls
+#EXTINF:-1 group-title="CRISTIANA", CINE PREMIUM
+http://181.78.12.119:16123/play/ch49/index.m3u8
 
-#EXTINF:-1 group-title="TV", DHE
-http://181.78.79.131:8000/play/a0qv
-
-#EXTINF:-1 group-title="TV", MULTIPREMIER HD
-http://24.152.42.29:8000/play/a06v/index.m3u8?hls
-
-#EXTINF:-1 group-title="TV", GOLDEN EDGE
-http://24.152.42.29:8000/play/a0b9/index.m3u8?hls
-
-#EXTINF:-1 group-title="TV", COMEDY CENTRAL
-http://181.78.79.131:8000/play/a0mu
-
-#EXTINF:-1 group-title="TV", DISTRITO COMEDIA
-http://190.61.101.11:7050/play/a04k/index.m3u8?hls
-
-#EXTINF:-1 group-title="TV", A&E HD
-http://181.78.79.131:8000/play/a0mt
-
-#EXTINF:-1 group-title="TV", UNIVISION HD
-http://24.152.42.29:8000/play/a0ba/index.m3u8?hls
+#EXTINF:-1 group-title="CRISTIANA", AMIGOS TV
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", PEAKOCK 4K HEVC
 https://netanyahu.indianservers.st/secure/rmBPzfSaZjYqWZlWGpysiUwEqIWljonP/1783022400/1783049400/pc4k_portugal/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", TELEMUNDO HD 
 https://vishnu.indianservers.st/secure/MbKsTKdGQngTfRNkZeTWhIhLUAPHjjOY/1783022400/1783049400/telemundo/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="DEPORTE",DIRECTV
+http://201.230.121.85:8000/play/dssporthd/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTE",SPORTS +
+http://190.108.83.69:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", DAZN
 https://shiva.indianservers.st/secure/AEdYxQPowlsMUQJeAZmTiihStTWYSOku/1783022400/1783049400/daznwc/tracks-v1a1/mono.ts.m3u8
@@ -153,65 +132,8 @@ http://181.78.79.131:8000/play/a0s3
 #EXTINF:-1 group-title="DEPORTE", ESPN HD 7
 http://181.78.79.131:8000/play/a0s8
 
-#EXTINF:-1 group-title="TV", CANAL 1 HD
-http://181.78.79.131:8000/play/a0s2
-
-#EXTINF:-1 group-title="TV", CANAL CONGRESO
-http://181.78.8.199:8000/play/a0di/index.m3u8
-
-#EXTINF:-1 group-title="TV", CARACOL HD 
-http://181.78.79.131:8000/play/a0l0
-
-#EXTINF:-1 group-title="TV", CARACOL HD OP 2
-http://181.78.8.199:8000/play/a0b0/index.m3u8
-
-#EXTINF:-1 group-title="TV", RCN HD
-http://181.78.79.131:8000/play/a0l4
-
-#EXTINF:-1 group-title="TV", CITY TV
-http://181.78.79.131:8000/play/a0si
-
-#EXTINF:-1 group-title="NOTICIAS",NTN24
-http://181.224.200.5:2277/play/a026/index.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", CNN EN ESPAÑOL
-http://181.78.79.131:8000/play/a0p3
-
-#EXTINF:-1 group-title="NOTICIAS", RT NOTICIAS
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", ESTRELLA NEWS
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991776
-
-#EXTINF:-1 group-title="Economía", ECONOMIA & FINANZAS
+#EXTINF:-1 group-title="DOCUMENTALES", ECONOMIA & FINANZAS
 https://amogonetworx-moconomy-1-es.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV", VISION TV
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", DW NOTICIAS
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", CABLE NOTICIAS
-http://181.78.8.199:8000/play/a0e8/index.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", BLU RADIO
-https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
-
-#EXTINF:-1 group-title="Colombia", RED+
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-
-#EXTINF:-1 group-title="Colombia", SEÑAL COLOMBIA
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Colombia", SEÑAL COLOMBIA OP 2
-http://181.78.79.131:8000/play/a0l7
-
-#EXTINF:-1 group-title="Colombia", CANAL INSTITUCIONAL
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Colombia", CANAL INSTITUCIONAL OP 2
-http://181.78.79.131:8000/play/a0l8
 
 #EXTINF:-1 group-title="DOCUMENTALES", LOVE NATURE
 http://181.224.200.5:2277/play/a036/index.m3u8
@@ -243,77 +165,32 @@ http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", HISTORIA Y VIDA
 https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
 
-#EXTINF:-1 group-title="MUSICA", LA KALLE
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+#EXTINF:-1 group-title="INFANTIL", DISNEY JR.
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 group-title="MUSICA", LA KALLE OP 2
-http://181.78.79.131:8000/play/a0l3
+#EXTINF:-1 group-title="INFANTIL", ADULT SWIM HD
+http://24.152.42.29:8000/play/a07j/index.m3u8?hls
 
-#EXTINF:-1 group-title="Retro", RETRO PLUS
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",NTN24
+http://181.224.200.5:2277/play/a026/index.m3u8
 
-#EXTINF:-1 group-title="Retro", RETROPLUS 2
-https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist_w349133620.m3u8
+#EXTINF:-1 group-title="NOTICIAS", CNN EN ESPAÑOL
+http://181.78.79.131:8000/play/a0p3
 
-#EXTINF:-1 group-title="Música", PLANCHA TV
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/plalist.m3u8
+#EXTINF:-1 group-title="NOTICIAS", RT NOTICIAS
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 group-title="Música", TELENOSTALGIA
-http://205.235.6.29:8000/play/a0yy/index.m3u8?hls
+#EXTINF:-1 group-title="NOTICIAS", DW NOTICIAS
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="TV", SURAM TV
-https://us.streaminghd.cl/suramtv/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", CABLE NOTICIAS
+http://181.78.8.199:8000/play/a0e8/index.m3u8
 
-#EXTINF:-1 group-title="TV", TV SAMANIEGO
-https://movil.ejeserver.com/live/canal4tv.m3u8
+#EXTINF:-1 group-title="NOTICIAS", BLU RADIO
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
-#EXTINF:-1 group-title="Colombia", HUILA TV
-https://server.asilivehd.com:3333/live/huilatvlive.m3u8
-
-#EXTINF:-1 group-title="Colombia", ALPAVISION NEIVA
-https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-
-#EXTINF:-1 group-title="Colombia", CABLE SUR FLORENCIA 
-https://tvlatina.live:1936/8025/8025/playlist.m3u8
-
-#EXTINF:-1 group-title="Música", PORTAL FOX MIX
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-
-#EXTINF:-1 group-title="Colombia", BUM TELEVISIÓN
-https://movil.ejeserver.com/live/visiondorada.m3u8
-
-#EXTINF:-1 group-title="Colombia", TELE DORADA
-https://movil.ejeserver.com/live/teledoradahd.m3u8
-
-#EXTINF:-1 group-title="TV", BEST CLASICOS
-https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8 
-
-#EXTINF:-1 group-title="TV", CANAL 10 COSTA RICA
-https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="CINE", SONY CINE
-https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8  
-
-#EXTINF:-1 group-title="TV", RETRO TV PALMARES
-https://lbgo.bozztv.com/ssh101/ssh101/tvretropalm2020/playlist.m3u8 
-
-#EXTINF:-1 group-title="CINE", XTREMA TV
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:-1 group-title="CINE", MEGA CINE
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8 
-
-#EXTINF:-1 group-title="CINE", RETRO X
-https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8 
-
-#EXTINF:-1 group-title="CINE", RETRO X PLUS
-https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8
-
-#EXTINF:-1 group-title="DEPORTE",DIRECTV
-http://201.230.121.85:8000/play/dssporthd/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTE",SPORTS +
-http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS", ESTRELLA NEWS
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991776
 
 #EXTINF:-1 group-title="NOVELAS",TLNOVELAS
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
@@ -326,3 +203,127 @@ http://181.78.8.199:8000/play/a0a7/index.m3u8
 
 #EXTINF:-1 group-title="NOVELAS", NOVELAS MEXICANAS
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+
+#EXTINF:-1 group-title="MUSICA", LA KALLE
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+
+#EXTINF:-1 group-title="MUSICA", LA KALLE OP 2
+http://181.78.79.131:8000/play/a0l3
+
+#EXTINF:-1 group-title="MUSICA", RETRO PLUS
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA", RETROPLUS 2
+https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist_w349133620.m3u8
+
+#EXTINF:-1 group-title="MUSICA", PLANCHA TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/plalist.m3u8
+
+#EXTINF:-1 group-title="MUSICA", PORTAL FOX MIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA", TELENOSTALGIA
+http://205.235.6.29:8000/play/a0yy/index.m3u8?hls
+
+#EXTINF:-1 group-title="TV", ENT FAMILY
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8  
+
+#EXTINF:-1 group-title="TV", ENT CHANNEL
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="TV", AXN
+http://181.78.79.131:8000/play/a0q0
+
+#EXTINF:-1 group-title="TV", AMC
+http://181.78.79.131:8000/play/a0n2
+
+#EXTINF:-1 group-title="TV", AMC SERIES HD
+http://24.152.42.29:8000/play/a06r/index.m3u8?hls
+
+#EXTINF:-1 group-title="TV", SONY HD
+http://24.152.42.29:8000/play/a06y/index.m3u8?hls
+
+#EXTINF:-1 group-title="TV", DHE
+http://181.78.79.131:8000/play/a0qv
+
+#EXTINF:-1 group-title="TV", MULTIPREMIER HD
+http://24.152.42.29:8000/play/a06v/index.m3u8?hls
+
+#EXTINF:-1 group-title="TV", GOLDEN EDGE
+http://24.152.42.29:8000/play/a0b9/index.m3u8?hls
+
+#EXTINF:-1 group-title="TV", COMEDY CENTRAL
+http://181.78.79.131:8000/play/a0mu
+
+#EXTINF:-1 group-title="TV", DISTRITO COMEDIA
+http://190.61.101.11:7050/play/a04k/index.m3u8?hls
+
+#EXTINF:-1 group-title="TV", A&E HD
+http://181.78.79.131:8000/play/a0mt
+
+#EXTINF:-1 group-title="TV", UNIVISION HD
+http://24.152.42.29:8000/play/a0ba/index.m3u8?hls
+
+#EXTINF:-1 group-title="TV", CANAL 1 HD
+http://181.78.79.131:8000/play/a0s2
+
+#EXTINF:-1 group-title="TV", CANAL CONGRESO
+http://181.78.8.199:8000/play/a0di/index.m3u8
+
+#EXTINF:-1 group-title="TV", CARACOL HD 
+http://181.78.79.131:8000/play/a0l0
+
+#EXTINF:-1 group-title="TV", CARACOL HD OP 2
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 group-title="TV", RCN HD
+http://181.78.79.131:8000/play/a0l4
+
+#EXTINF:-1 group-title="TV", CITY TV
+http://181.78.79.131:8000/play/a0si
+
+#EXTINF:-1 group-title="TV", VISION TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1 group-title="TV", RED+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+#EXTINF:-1 group-title="TV", SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_COLOMBIA_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV", SEÑAL COLOMBIA OP 2
+http://181.78.79.131:8000/play/a0l7
+
+#EXTINF:-1 group-title="TV", CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV", CANAL INSTITUCIONAL OP 2
+http://181.78.79.131:8000/play/a0l8
+
+#EXTINF:-1 group-title="TV", SURAM TV
+https://us.streaminghd.cl/suramtv/index.m3u8
+
+#EXTINF:-1 group-title="TV", TV SAMANIEGO
+https://movil.ejeserver.com/live/canal4tv.m3u8
+
+#EXTINF:-1 group-title="TV", HUILA TV
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+
+#EXTINF:-1 group-title="TV", ALPAVISION NEIVA
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+
+#EXTINF:-1 group-title="TV", CABLE SUR FLORENCIA 
+https://tvlatina.live:1936/8025/8025/playlist.m3u8
+
+#EXTINF:-1 group-title="TV", BUM TELEVISIÓN
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 group-title="TV", TELE DORADA
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1 group-title="TV", CANAL 10 COSTA RICA
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="TV", RETRO TV PALMARES
+https://lbgo.bozztv.com/ssh101/ssh101/tvretropalm2020/playlist.m3u8 
+
