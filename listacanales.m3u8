@@ -258,6 +258,9 @@ https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x7
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", CNN EN ESPAÑOL
 http://181.78.79.131:8000/play/a0p3
 
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", CNN NOTICIAS
+https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", RT NOTICIAS
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
