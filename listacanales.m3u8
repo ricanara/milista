@@ -224,12 +224,12 @@ http://181.78.79.131:8000/play/a0l4
 #EXTINF:-1 group-title="NACIONALES", CITY TV
 http://181.78.79.131:8000/play/a0si
 
-#EXTINF:-1 group-title="NACIONALES", TELEMEDELLIN
+#EXTINF:-1 group-title="NACIONALES", Telemedellin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SmartIPTV
 #EXTVLCOPT:http-referrer=http://smart-stb.tv/
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", TELEANTIOQUIA
+#EXTINF:-1 group-title="NACIONALES", Telenatioquia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SmartIPTV
 #EXTVLCOPT:http-referrer=http://smart-stb.tv/
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
