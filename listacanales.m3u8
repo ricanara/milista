@@ -69,8 +69,11 @@ http://209.87.175.160:5001/play/a0mh/index.m3u8?hls
 #EXTINF:-1 group-title="CINE", CINECANAL
 http://181.78.79.131:8000/play/a0pp
 
-#EXTINF:-1 group-title="CRISTIANA", CINE PREMIUM
+#EXTINF:-1 group-title="CINE", CINE PREMIUM
 http://181.78.12.119:16123/play/ch49/index.m3u8
+
+#EXTINF:-1 group-title="CRISTIANA", EBENEZER
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 
 #EXTINF:-1 group-title="CRISTIANA", ENLACE
 https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
@@ -104,6 +107,9 @@ https://shiva.indianservers.st/secure/AEdYxQPowlsMUQJeAZmTiihStTWYSOku/178302240
 
 #EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 1
 http://8.243.126.131:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", FOX SPORT
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 2
 http://181.64.27.65:8000/play/a0dq/index.m3u8
@@ -216,6 +222,12 @@ http://181.78.79.131:8000/play/a0l4
 #EXTINF:-1 group-title="NACIONALES", CITY TV
 http://181.78.79.131:8000/play/a0si
 
+#EXTINF:-1 group-title="NACIONALES", TELEMEDELLIN
+https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", TELEANTIOQUIA
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="NACIONALES", RED+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
@@ -231,6 +243,9 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 #EXTINF:-1 group-title="NACIONALES", CANAL INSTITUCIONAL OP 2
 http://181.78.79.131:8000/play/a0l8
 
+#EXTINF:-1 group-title="NACIONALES", PYC TOLIMA
+https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONALES",NTN24
 http://181.224.200.5:2277/play/a026/index.m3u8
 
@@ -239,6 +254,12 @@ http://181.78.79.131:8000/play/a0p3
 
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", RT NOTICIAS
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", FRANCE 24
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", EURO NEWS
+https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", DW NOTICIAS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
