@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="CINE", STUDIO UNIVERSAL
+http://38.44.109.41:8003/play/a0bz/index.m3u8
+
+#EXTINF:-1 group-title="CINE", FILM & ARTS
+http://45.5.119.43:4000/play/a0gs/index.m3u8
+
+#EXTINF:-1 group-title="CINE", WARNER TV
+http://179.1.199.50:9000/play/a04d/index.m3u8
+
 #EXTINF:-1 group-title="CINE", XTREMA TV
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
@@ -41,6 +50,9 @@ http://181.78.79.131:8000/play/a0qy
 #EXTINF:-1 group-title="CINE", TNT HD
 http://24.152.42.29:8000/play/a07h/index.m3u8?hls
 
+#EXTINF:-1 group-title="CINE", TNT 
+http://45.5.119.43:4000/play/a0hu/index.m3u8
+
 #EXTINF:-1 group-title="CINE", TNT SERIES HD
 http://24.152.42.29:8000/play/a07o/index.m3u8?hls
 
@@ -58,6 +70,9 @@ http://181.78.79.131:8000/play/a0mw
 
 #EXTINF:-1 group-title="CINE", UNIVERSAL PREMIERE
 http://209.87.175.160:5001/play/a0mo/index.m3u8?hls
+
+#EXTINF:-1 group-title="CINE", UNIVERSAL CINEMA
+http://45.5.119.43:4000/play/a0kt/index.m3u8
 
 #EXTINF:-1 group-title="CINE", BEST CLASICOS
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
@@ -152,8 +167,17 @@ http://181.78.79.131:8000/play/a0s3
 #EXTINF:-1 group-title="DEPORTE", ESPN HD 7
 http://181.78.79.131:8000/play/a0s8
 
+#EXTINF:-1 group-title="DOCUMENTALES", HOME & HEALTH
+http://45.5.119.43:4000/play/a0hw/index.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY CHANEL
 http://45.5.119.43:4000/play/a0kn/index.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY THEATER
+http://45.5.119.43:4000/play/a0hv/index.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY WORLD HD
+http://200.35.176.154:8000/play/a0ru/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES", DOCUBOX
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
@@ -182,6 +206,12 @@ https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", NATIONAL GEOGRAPHIC
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/NatGeo.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTALES", NATIONAL GEOGRAPHIC
+http://45.5.119.43:4000/play/a0kk/index.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES", EL GOURMET
+http://179.1.199.50:9000/play/a0as/index.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTALES", HISTORY CHANNEL
 http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
 
@@ -196,6 +226,18 @@ http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?devi
 
 #EXTINF:-1 group-title="INFANTIL", ADULT SWIM HD
 http://24.152.42.29:8000/play/a07j/index.m3u8?hls
+
+#EXTINF:-1 group-title="INFANTIL", DISCOVERY KIDS
+http://179.1.87.75:8098/play/a0u8/index.m3u8
+
+#EXTINF:-1 group-title="INFANTIL", DREIKO TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+
+#EXTINF:-1 group-title="INFANTIL", NIKELODEON
+http://179.1.199.50:9000/play/a02n/index.m3u8
+
+#EXTINF:-1 group-title="INFANTIL", CARTOON NETWORK
+http://45.5.119.43:4000/play/a0l0/index.m3u8
 
 #EXTINF:-1 group-title="NACIONALES", CABLE NOTICIAS
 http://181.78.8.199:8000/play/a0e8/index.m3u8
@@ -334,6 +376,12 @@ http://24.152.42.29:8000/play/a06y/index.m3u8?hls
 
 #EXTINF:-1 group-title="TV", DHE
 http://181.78.79.131:8000/play/a0qv
+
+#EXTINF:-1 group-title="TV", LATINA
+http://38.44.109.41:8003/play/a0cb/index.m3u8
+
+#EXTINF:-1 group-title="TV", UNIVERSAL REALITY
+http://45.5.119.43:4000/play/a0i3/index.m3u8
 
 #EXTINF:-1 group-title="TV", MULTIPREMIER HD
 http://24.152.42.29:8000/play/a06v/index.m3u8?hls
