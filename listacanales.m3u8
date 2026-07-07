@@ -89,11 +89,17 @@ http://209.87.175.160:5001/play/a0mh/index.m3u8?hls
 #EXTINF:-1 group-title="CINE", CINECANAL
 http://181.78.79.131:8000/play/a0pp
 
+#EXTINF:-1 group-title="CINE", EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
+
 #EXTINF:-1 group-title="CRISTIANA", EBENEZER
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 
 #EXTINF:-1 group-title="CRISTIANA", ENLACE
 https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
+
+#EXTINF:-1 group-title="CRISTIANA", CRISTOVISION
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
 
 #EXTINF:-1 group-title="CRISTIANA", RED ADVENIR
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
