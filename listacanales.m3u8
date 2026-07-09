@@ -116,6 +116,9 @@ https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
 #EXTINF:-1 group-title="CRISTIANA", AMIGOS TV
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 
+#EXTINF:-1 group-title="CRISTIANA", CINE DIOS
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+
 #EXTINF:-1 group-title="CRISTIANA", CHOLUTECA
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
 
