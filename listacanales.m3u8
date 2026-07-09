@@ -329,7 +329,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONALES", ESTRELLA NEWS
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991776
 
-#EXTINF:-1 group-title="NOVELAS", TLNOVELAS, tvg-logo="https://i.imgur.com/Rvm38Mu.png"
+#EXTINF:-1 group-title="NOVELAS", 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SmartIPTV
 #EXTVLCOPT:http-referrer=http://smart-stb.tv/
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
