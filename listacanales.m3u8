@@ -107,6 +107,9 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:-1 group-title="CRISTIANA", 3ABN
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="CRISTIANA", FRECUENCIA F
+https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
+
 #EXTINF:-1 group-title="CRISTIANA", AMIGOS TV
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 
