@@ -303,6 +303,9 @@ http://181.78.79.131:8000/play/a0l8
 #EXTINF:-1 group-title="NACIONALES", PYC TOLIMA
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 
+#EXTINF:-1 group-title="NACIONALES", BUENISIMA RADIO
+https://canal.mediaserver.com.co/live/buenisimatv.m3u8
+
 #EXTINF:-1 group-title="NOTICIAS INTERNACIONALES",NTN24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SmartIPTV
 #EXTVLCOPT:http-referrer=http://smart-stb.tv/
