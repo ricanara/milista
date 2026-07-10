@@ -212,6 +212,9 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 #EXTINF:-1 group-title="DOCUMENTALES", LOVE THEPLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTALES", PAISAJES NATURESCAPE
+https://jmp2.uk/plu-5f4fed840a2764000720d966.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTALES", HISTORY HD
 http://24.152.42.29:8000/play/a071/index.m3u8?hls
 
