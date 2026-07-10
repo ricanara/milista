@@ -239,9 +239,6 @@ http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", HISTORIA Y VIDA
 https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", TV FLORIDA
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-
 #EXTINF:-1 group-title="INFANTIL", DISNEY JR.
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -390,6 +387,16 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICA", TELENOSTALGIA
 http://205.235.6.29:8000/play/a0yy/index.m3u8?hls
+
+#EXTINF:-1 group-title="TRAVEL", TV FLORIDA
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL", TV PANAMA BEACH
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL", CHILE CHANEL
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+
 
 #EXTINF:-1 group-title="TV", ENT FAMILY
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8  
