@@ -233,6 +233,9 @@ http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", HISTORY2
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTALES", POLICIAS EN ACCION
+https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTALES", HISTORIA Y VIDA
 https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
 
