@@ -206,9 +206,6 @@ http://181.224.200.5:2277/play/a036/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", PLUTO ANIMALES
 https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES", GO USA TV
-https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="DOCUMENTALES", TRAVEL TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
@@ -397,6 +394,8 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1 group-title="TRAVEL", CHILE CHANEL
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
+#EXTINF:-1 group-title="TRAVEL", GO USA TV
+https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV", ENT FAMILY
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8  
