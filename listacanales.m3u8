@@ -65,11 +65,20 @@ http://181.78.79.131:8000/play/a0q2
 #EXTINF:-1 group-title="CINE", WARNER HD
 http://181.78.79.131:8000/play/a0pz
 
+#EXTINF:-1 group-title="CINE", MULTIPREMIER HD
+http://24.152.42.29:8000/play/a06v/index.m3u8?hls
+
+#EXTINF:-1 group-title="CINE", GOLDEN EDGE
+http://24.152.42.29:8000/play/a0b9/index.m3u8?hls
+
 #EXTINF:-1 group-title="CINE", STAR CHANNEL
 http://190.61.101.11:7050/play/a077/index.m3u8?hls
 
 #EXTINF:-1 group-title="CINE", UNIVERSAL TV
 http://181.78.79.131:8000/play/a0mw
+
+#EXTINF:-1 group-title="CINE", SONY HD
+http://24.152.42.29:8000/play/a06y/index.m3u8?hls
 
 #EXTINF:-1 group-title="CINE", UNIVERSAL PREMIERE
 http://209.87.175.160:5001/play/a0mo/index.m3u8?hls
@@ -430,9 +439,6 @@ http://181.78.79.131:8000/play/a0n2
 #EXTINF:-1 group-title="TV", AMC SERIES HD
 http://24.152.42.29:8000/play/a06r/index.m3u8?hls
 
-#EXTINF:-1 group-title="TV", SONY HD
-http://24.152.42.29:8000/play/a06y/index.m3u8?hls
-
 #EXTINF:-1 group-title="TV", DHE
 http://181.78.79.131:8000/play/a0qv
 
@@ -441,12 +447,6 @@ http://38.44.109.41:8003/play/a0cb/index.m3u8
 
 #EXTINF:-1 group-title="TV", UNIVERSAL REALITY
 http://45.5.119.43:4000/play/a0i3/index.m3u8
-
-#EXTINF:-1 group-title="TV", MULTIPREMIER HD
-http://24.152.42.29:8000/play/a06v/index.m3u8?hls
-
-#EXTINF:-1 group-title="TV", GOLDEN EDGE
-http://24.152.42.29:8000/play/a0b9/index.m3u8?hls
 
 #EXTINF:-1 group-title="TV", COMEDY CENTRAL
 http://181.78.79.131:8000/play/a0mu
