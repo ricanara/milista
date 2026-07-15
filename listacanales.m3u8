@@ -16,7 +16,7 @@ http://179.1.199.50:9000/play/a04d/index.m3u8
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE", MEGA CINE
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8 
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE", CINE PREMIUM
 http://181.78.12.119:16123/play/ch49/index.m3u8
@@ -27,7 +27,10 @@ http://181.78.12.119:16123/play/ch49/index.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE", SONY CINE
-https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8  
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8 
+
+#EXTINF:-1 group-title="CINE", CINE SONY
+http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
 
 #EXTINF:-1 group-title="CINE", HBO
 http://181.79.87.130:8000/play/a0ei/index.m3u8
@@ -65,6 +68,12 @@ http://181.78.79.131:8000/play/a0pz
 #EXTINF:-1 group-title="CINE", MULTIPREMIER HD
 http://24.152.42.29:8000/play/a06v/index.m3u8?hls
 
+#EXTINF:-1 group-title="CINE", PLUTO TV CINE FAMILIA
+https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+
+#EXTINF:-1 group-title="CINE", PLUTO TV CINE DRAMA
+https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
+
 #EXTINF:-1 group-title="CINE", GOLDEN EDGE
 http://24.152.42.29:8000/play/a0b9/index.m3u8?hls
 
@@ -94,6 +103,15 @@ http://209.87.175.160:5001/play/a0mh/index.m3u8?hls
 
 #EXTINF:-1 group-title="CINE", CINECANAL
 http://138.121.15.230:9002/CINECANAL/index.m3u8
+
+#EXTINF:-1 group-title="CINE", CINE PREMIERE
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+
+#EXTINF:-1 group-title="CINE", CINE AMOR
+https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
+
+#EXTINF:-1 group-title="CINE", CINE35MM
+https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8
 
 #EXTINF:-1 group-title="CINE", PLUTO CINE ACCION
 https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
