@@ -93,7 +93,10 @@ http://209.87.175.160:5001/play/a0m1/index.m3u8?hls
 http://209.87.175.160:5001/play/a0mh/index.m3u8?hls
 
 #EXTINF:-1 group-title="CINE", CINECANAL
-http://181.78.79.131:8000/play/a0pp
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+
+#EXTINF:-1 group-title="CINE", PLUTO CINE ACCION
+https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
 
 #EXTINF:-1 group-title="CRISTIANA", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
