@@ -112,6 +112,9 @@ http://138.121.15.230:9002/CINECANAL/index.m3u8
 #EXTINF:-1 group-title="CINE", CINE PREMIERE
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 
+#EXTINF:-1 group-title="CINE", PLUTO PARAMOUNT
+https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+
 #EXTINF:-1 group-title="CINE", CINE AMOR
 https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
 
