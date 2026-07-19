@@ -30,10 +30,7 @@ http://181.78.12.119:16123/play/ch49/index.m3u8
 #EXTVLCOPT:http-referrer=http://smart-stb.tv/
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE", SONY CINE
-https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8 
-
-#EXTINF:-1 group-title="CINE", CINE SONY
+#EXTINF:-1 group-title="CINE", SONY
 http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
 
 #EXTINF:-1 group-title="CINE", DPELICULA
