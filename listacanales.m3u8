@@ -212,12 +212,18 @@ http://181.78.79.131:8000/play/a0s3
 http://181.78.79.131:8000/play/a0s8
 
 #EXTINF:-1 group-title="DOCUMENTALES", HOME & HEALTH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 SmartIPTV
+#EXTVLCOPT:http-referrer=http://smart-stb.tv/
 http://45.5.119.43:4000/play/a0hw/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY CHANEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 SmartIPTV
+#EXTVLCOPT:http-referrer=http://smart-stb.tv/
 http://45.5.119.43:4000/play/a0kn/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY THEATER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 SmartIPTV
+#EXTVLCOPT:http-referrer=http://smart-stb.tv/
 http://45.5.119.43:4000/play/a0hv/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES", DISCOVERY WORLD HD
