@@ -307,6 +307,9 @@ http://181.78.8.199:8000/play/a0b0/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",RCN HD
 http://181.78.14.26:4000/play/a07m/index.m3u8
 
+#EXTINF:-1 group-title="NACIONALES",RCN HD2
+http://181.78.14.26:4000/play/a07m/index.m3u8
+
 #EXTINF:-1 group-title="NACIONALES", CITY TV
 http://181.78.79.131:8000/play/a0si
 
