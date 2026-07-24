@@ -8,9 +8,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="CINE", STUDIO UNIVERSAL
 http://38.44.109.41:8003/play/a0bz/index.m3u8
 
-#EXTINF:-1 group-title="CINE", WARNER TV
-http://179.1.199.50:9000/play/a04d/index.m3u8
-
 #EXTINF:-1 group-title="CINE", XTREMA TV
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
