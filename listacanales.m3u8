@@ -55,9 +55,6 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 group-title="CINE", WARNER HD
 http://181.78.79.131:8000/play/a0pz
 
-#EXTINF:-1 group-title="CINE", MULTIPREMIER HD
-http://24.152.42.29:8000/play/a06v/index.m3u8?hls
-
 #EXTINF:-1 group-title="CINE", PLUTO TV CINE FAMILIA
 https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
 
