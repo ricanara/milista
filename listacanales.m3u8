@@ -8,6 +8,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="CINE", STUDIO UNIVERSAL
 http://38.44.109.41:8003/play/a0bz/index.m3u8
 
+#EXTINF:-1 group-title="CINE", AXN
+http://181.78.79.131:8000/play/a0q0
+
 #EXTINF:-1 group-title="CINE", XTREMA TV
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
@@ -91,8 +94,20 @@ http://209.87.175.160:5001/play/a0mh/index.m3u8?hls
 #EXTINF:-1 group-title="CINE", CINECANAL
 http://138.121.15.230:9002/CINECANAL/index.m3u8
 
+#EXTINF:-1 group-title="CINE", CINE DIOS
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+
+#EXTINF:-1 group-title="CINE", ENT FAMILY
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8  
+
+#EXTINF:-1 group-title="CINE", ENT CHANNEL
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="CINE", PLUTO PARAMOUNT
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+
+#EXTINF:-1 group-title="CINE", DHE
+http://181.78.79.131:8000/play/a0qv
 
 #EXTINF:-1 group-title="CINE", CINE AMOR
 https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
@@ -103,37 +118,34 @@ https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8
 #EXTINF:-1 group-title="CINE", PLUTO CINE ACCION
 https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
 
-#EXTINF:-1 group-title="CRISTIANA", EWTN
+#EXTINF:-1 group-title="RELIGIOSO", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 group-title="CRISTIANA", EBENEZER
+#EXTINF:-1 group-title="RELIGIOSO", EBENEZER
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 
-#EXTINF:-1 group-title="CRISTIANA", ENLACE
+#EXTINF:-1 group-title="RELIGIOSO", ENLACE
 https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 
-#EXTINF:-1 group-title="CRISTIANA", CRISTOVISION
+#EXTINF:-1 group-title="RELIGIOSO", CRISTOVISION
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
 
-#EXTINF:-1 group-title="CRISTIANA", RED ADVENIR
+#EXTINF:-1 group-title="RELIGIOSO", RED ADVENIR
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 
-#EXTINF:-1 group-title="CRISTIANA", 3ABN
+#EXTINF:-1 group-title="RELIGIOSO", 3ABN
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="CRISTIANA", FRECUENCIA F
+#EXTINF:-1 group-title="RELIGIOSO", FRECUENCIA F
 https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 
-#EXTINF:-1 group-title="CRISTIANA", BENDICION CHANEL
+#EXTINF:-1 group-title="RELIGIOSO", BENDICION CHANEL
 https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
 
-#EXTINF:-1 group-title="CRISTIANA", AMIGOS TV
+#EXTINF:-1 group-title="RELIGIOSO", AMIGOS TV
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 
-#EXTINF:-1 group-title="CRISTIANA", CINE DIOS
-https://canal.mediaserver.com.co/live/cinedios.m3u8
-
-#EXTINF:-1 group-title="CRISTIANA", CHOLUTECA
+#EXTINF:-1 group-title="RELIGIOSO", CHOLUTECA
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", PEAKOCK 4K HEVC
@@ -195,6 +207,9 @@ http://181.78.79.131:8000/play/a0s3
 
 #EXTINF:-1 group-title="DEPORTE", ESPN HD 7
 http://181.78.79.131:8000/play/a0s8
+
+#EXTINF:-1 group-title="DOCUMENTALES", A&E HD
+http://181.78.79.131:8000/play/a0mt
 
 #EXTINF:-1 group-title="DOCUMENTALES", HOME & HEALTH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SmartIPTV
@@ -434,23 +449,11 @@ https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://smart-stb.tv/
 http://45.5.119.43:4000/play/a0gs/index.m3u8
 
-#EXTINF:-1 group-title="TV", ENT FAMILY
-https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8  
-
-#EXTINF:-1 group-title="TV", ENT CHANNEL
-https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="TV", AXN
-http://181.78.79.131:8000/play/a0q0
-
 #EXTINF:-1 group-title="TV", AMC
 http://181.78.79.131:8000/play/a0n2
 
 #EXTINF:-1 group-title="TV", AMC SERIES HD
 http://24.152.42.29:8000/play/a06r/index.m3u8?hls
-
-#EXTINF:-1 group-title="TV", DHE
-http://181.78.79.131:8000/play/a0qv
 
 #EXTINF:-1 group-title="TV", LATINA
 http://38.44.109.41:8003/play/a0cb/index.m3u8
@@ -463,9 +466,6 @@ http://181.78.79.131:8000/play/a0mu
 
 #EXTINF:-1 group-title="TV", DISTRITO COMEDIA
 http://190.61.101.11:7050/play/a04k/index.m3u8?hls
-
-#EXTINF:-1 group-title="TV", A&E HD
-http://181.78.79.131:8000/play/a0mt
 
 #EXTINF:-1 group-title="TV", UNIVISION HD
 http://24.152.42.29:8000/play/a0ba/index.m3u8?hls
