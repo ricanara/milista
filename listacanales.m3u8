@@ -393,7 +393,7 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 group-title="NOVELAS", TLNOVELAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 SmartIPTV
 #EXTVLCOPT:http-referrer=http://smart-stb.tv/
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
+http://181.78.79.131:8000/play/a0t6
 
 #EXTINF:-1 group-title="NOVELAS", CANAL DE LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
